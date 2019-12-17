@@ -7,10 +7,6 @@ label {
   margin-bottom: 10px;
 }
 
-.size-input-age {
-  width: 35px;
-}
-
 fieldset label:last-child {
   margin-bottom: 0;
 }
